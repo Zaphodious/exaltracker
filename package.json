@@ -1,0 +1,30 @@
+{
+  "name": "exaltracker",
+  "version": "1.0.0",
+  "description": "Tracks Exalted things",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zaphodious/exaltracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zaphodious/exaltracker/issues"
+  },
+  "homepage": "https://github.com/zaphodious/exaltracker#readme",
+  "dependencies": {
+    "lit-element": "^2.2.1",
+    "parcel": "^1.12.4",
+    "parcel-bundler": "^1.12.4"
+  },
+  "browserslist": [
+    "Chrome > 50"
+  ],
+  "devDependencies": {
+    "typescript": "^3.7.4"
+  }
+}
