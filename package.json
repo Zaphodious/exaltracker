@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/zaphodious/exaltracker#readme",
   "dependencies": {
+    "input-knob": "0.0.8",
     "lit-element": "^2.2.1",
     "parcel": "^1.12.4",
     "parcel-bundler": "^1.12.4"
